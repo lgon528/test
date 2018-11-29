@@ -1,1 +1,1 @@
-just a test
+release 1.0
